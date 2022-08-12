@@ -1,5 +1,5 @@
 # WaveMachine
-## More projects: https://zohiu.de/projects/
+## More projects: https://zohiu.de/projects/  
 Just follow the schematic at the bottom if you want to re-create this.  
   
 Use the buttons to switch between modes and use the knobs to control the waves.  
