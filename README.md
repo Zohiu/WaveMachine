@@ -1,3 +1,4 @@
 # WaveMachine
 Code for a wave machine using Arduino UNO
-![Schematic](https://zohiu.de/projects/wavemachine/wavemachine-schematic.jpg)
+![Modes](https://zohiu.de/projects/wavemachine/modes.png)
+![Schematic](https://zohiu.de/projects/wavemachine/schematic.png)
