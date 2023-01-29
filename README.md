@@ -4,9 +4,9 @@ Just follow the schematic at the bottom if you want to re-create this.
 Use the buttons to switch between modes and use the knobs to control the waves.  
 The servos will move exactly like the waves on the screen.  
   
-![Build](https://zohiu.de/projects/wavemachine/build.png)
-![Modes](https://zohiu.de/projects/wavemachine/modes.png)
-![Schematic](https://zohiu.de/projects/wavemachine/schematic.png)
+![Build](https://zohiu.de/assets/projects/wavemachine/build.png)
+![Modes](https://zohiu.de/assets/projects/wavemachine/modes.png)
+![Schematic](https://zohiu.de/assets/projects/wavemachine/schematic.png)
   
   
 # I only made the code for this project. I didn't create the project iself.
